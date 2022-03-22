@@ -1,0 +1,13 @@
+@media only screen and (max-width: 600px) {
+    .con{
+        left: 4px !important;
+        bottom: 18px !important;
+    }
+    header h1{
+        font-size:22px;
+    }
+    header p{
+        font-size:12px;
+        letter-spacing: 1.2px;
+    }
+}
