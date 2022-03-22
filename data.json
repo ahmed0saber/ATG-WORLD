@@ -1,29 +1,29 @@
 [
     {
         "id": "1",
-        "img": "Monday",
-        "tag": "Monday",
-        "title": "Monday",
-        "content": "Monday",
-        "views": "Monday",
-        "owner": {"name":"Ahmed Saber", "img":"Monday"}
+        "img": "./data-images/post1.svg",
+        "tag": "✍️ Article",
+        "title": "What if famous brands had regular fonts? Meet RegulaBrands!",
+        "content": "I’ve worked in UX for the better part of a decade. From now on, I plan to rei…",
+        "views": "1.4k",
+        "owner": {"name":"Sarthak Kamra", "img":"./data-images/user1.svg"}
     },
     {
         "id": "2",
-        "img": "Monday",
-        "tag": "Monday",
-        "title": "Monday",
-        "content": "Monday",
-        "views": "Monday",
-        "owner": {"name":"Ahmed Saber", "img":"Monday"}
+        "img": "./data-images/post2.svg",
+        "tag": "🔬️ Education",
+        "title": "Tax Benefits for Investment under National Pension Scheme launched by Government",
+        "content": "I’ve worked in UX for the better part of a decade. From now on, I plan to rei…",
+        "views": "1.4k",
+        "owner": {"name":"Sarah West", "img":"./data-images/user2.svg"}
     },
     {
         "id": "3",
-        "img": "Monday",
-        "tag": "Monday",
-        "title": "Monday",
-        "content": "Monday",
-        "views": "Monday",
-        "owner": {"name":"Ahmed Saber", "img":"Monday"}
+        "img": "./data-images/post3.svg",
+        "tag": "🗓️ Meetup",
+        "title": "Finance & Investment Elite Social Mixer @Lujiazui",
+        "content": "Fri, 12 Oct, 2018     Ahmedabad, India",
+        "views": "1.4k",
+        "owner": {"name":"Ronal Jones", "img":"./data-images/user3.svg"}
     }
 ]
