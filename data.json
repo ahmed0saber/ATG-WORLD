@@ -1,29 +1,29 @@
 [
     {
         "id": "1",
-        "img": "./data-images/post1.svg",
+        "img": "https://ahmed0saber.github.io/ATG-WORLD/data-images/post1.png",
         "tag": "✍️ Article",
         "title": "What if famous brands had regular fonts? Meet RegulaBrands!",
         "content": "I’ve worked in UX for the better part of a decade. From now on, I plan to rei…",
         "views": "1.4k",
-        "owner": {"name":"Sarthak Kamra", "img":"./data-images/user1.svg"}
+        "owner": {"name":"Sarthak Kamra", "img":"https://ahmed0saber.github.io/ATG-WORLD/data-images/user1.png"}
     },
     {
         "id": "2",
-        "img": "./data-images/post2.svg",
+        "img": "https://ahmed0saber.github.io/ATG-WORLD/data-images/post2.png",
         "tag": "🔬️ Education",
         "title": "Tax Benefits for Investment under National Pension Scheme launched by Government",
         "content": "I’ve worked in UX for the better part of a decade. From now on, I plan to rei…",
         "views": "1.4k",
-        "owner": {"name":"Sarah West", "img":"./data-images/user2.svg"}
+        "owner": {"name":"Sarah West", "img":"https://ahmed0saber.github.io/ATG-WORLD/data-images/user2.png"}
     },
     {
         "id": "3",
-        "img": "./data-images/post3.svg",
+        "img": "https://ahmed0saber.github.io/ATG-WORLD/data-images/post3.png",
         "tag": "🗓️ Meetup",
         "title": "Finance & Investment Elite Social Mixer @Lujiazui",
         "content": "Fri, 12 Oct, 2018     Ahmedabad, India",
         "views": "1.4k",
-        "owner": {"name":"Ronal Jones", "img":"./data-images/user3.svg"}
+        "owner": {"name":"Ronal Jones", "img":"https://ahmed0saber.github.io/ATG-WORLD/data-images/user3.png"}
     }
 ]
