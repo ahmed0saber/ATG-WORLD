@@ -1,30 +1,29 @@
 [
     {
         "id": "1",
-        "dayEN": "Monday"
+        "img": "Monday",
+        "tag": "Monday",
+        "title": "Monday",
+        "content": "Monday",
+        "views": "Monday",
+        "owner": {"name":"Ahmed Saber", "img":"Monday"}
     },
     {
-        "id": "2",
-        "dayEN": "Tuesday"
+        "id": "1",
+        "img": "Monday",
+        "tag": "Monday",
+        "title": "Monday",
+        "content": "Monday",
+        "views": "Monday",
+        "owner": {"name":"Ahmed Saber", "img":"Monday"}
     },
     {
-        "id": "3",
-        "dayEN": "Wednesday"
-    },
-    {
-        "id": "4",
-        "dayEN": "Thursday"
-    },
-    {
-        "id": "5",
-        "dayEN": "Friday"
-    },
-    {
-        "id": "6",
-        "dayEN": "Saturday"
-    },
-    {
-        "id": "7",
-        "dayEN": "Sunday"
+        "id": "1",
+        "img": "Monday",
+        "tag": "Monday",
+        "title": "Monday",
+        "content": "Monday",
+        "views": "Monday",
+        "owner": {"name":"Ahmed Saber", "img":"Monday"}
     }
 ]
