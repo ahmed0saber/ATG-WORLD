@@ -16,14 +16,5 @@
         "content": "I’ve worked in UX for the better part of a decade. From now on, I plan to rei…",
         "views": "1.4k",
         "owner": {"name":"Sarah West", "img":"https://ahmed0saber.github.io/ATG-WORLD/data-images/user2.png"}
-    },
-    {
-        "id": "3",
-        "img": "https://ahmed0saber.github.io/ATG-WORLD/data-images/post3.png",
-        "tag": "🗓️ Meetup",
-        "title": "Finance & Investment Elite Social Mixer @Lujiazui",
-        "content": "Fri, 12 Oct, 2018     Ahmedabad, India",
-        "views": "1.4k",
-        "owner": {"name":"Ronal Jones", "img":"https://ahmed0saber.github.io/ATG-WORLD/data-images/user3.png"}
     }
 ]
