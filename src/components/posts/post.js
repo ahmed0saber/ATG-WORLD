@@ -37,7 +37,7 @@ function App() {
                                 <img src={post.owner.img} alt={`${post.owner.name}`}/>
                                 <strong Style="padding-left:8px;">{post.owner.name}</strong>
                             </div>
-                            <span>{post.views} views</span>
+                            <span><i class="fa fa-eye"></i> {post.views} views</span>
                         </div>
                     </div>
                 </div>

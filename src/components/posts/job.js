@@ -25,7 +25,7 @@ function App() {
                                 <img src={job.owner.img} alt={`${job.owner.name}`}/>
                                 <strong Style="padding-left:8px;">{job.owner.name}</strong>
                             </div>
-                            <span>{job.views} views</span>
+                            <span><i class="fa fa-eye"></i> {job.views} views</span>
                         </div>
                     </div>
                 </div>

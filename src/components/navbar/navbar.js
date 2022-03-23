@@ -19,7 +19,8 @@ function App() {
                             <Col sm="6">
                             <Form>
                                 <Form.Group Style="position:relative; top:8px;" className="mb-3" controlId="formBasicEmail">
-                                    <Form.Control Style="border-radius:20px; background-color:#f2f2f2; border:none;" type="email" placeholder="Search for your favorite groups in ATG" />
+                                    <Form.Control Style="border-radius:20px; background-color:#f2f2f2; border:none;padding-left:40px;" type="email" placeholder="Search for your favorite groups in ATG" />
+                                    <i Style="position:absolute;top:10px;left:10px;color:#888;" className="fa fa-search"></i>
                                 </Form.Group>
                             </Form>
                             </Col>
